@@ -1,0 +1,3 @@
+To jest ćwiczenie jeden.
+Przedmiot: Podstawy wersjonowania kodu źródłowego
+Dydaktyk: Błażej Strus
