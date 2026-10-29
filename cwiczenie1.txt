@@ -6,3 +6,6 @@ Dodanie okna logowania.
 
 Zgodnie z wymogiem recenzenta:
 Zmieniono typ pola na hasło z input type text na password
+
+Wprowadzenie możliwości zmiany motywu kolorystycznego dla osób niedowidzących poprzez button w prawym dolnym 
+rogu aplikacji
