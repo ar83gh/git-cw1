@@ -3,3 +3,6 @@ Przedmiot: Podstawy wersjonowania kodu źródłowego
 Dydaktyk: Błażej Strus
 
 Dodanie okna logowania.
+
+Zgodnie z wymogiem recenzenta:
+Zmieniono typ pola na hasło z input type text na password
